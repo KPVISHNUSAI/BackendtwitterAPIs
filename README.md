@@ -1,8 +1,19 @@
-# Twitter
+# Twitter Backend
 
-Given an `app.js` file and a database file `twitterClone.db` consisting of five tables `user`, `follower`, `tweet`, `reply`, and `like`.
+I developed a Twitter Clone application using an `app.js` file and a database file `twitterClone.db`, which consists of five tables: `user`, `follower`, `tweet`, `reply`, and `like`.
 
-Write APIs to perform operations on the tables `user`, `follower`, `tweet`, `reply`, and `like` containing the following columns,
+I have written APIs to perform operations on the following tables:
+
+- **User:** Contains columns related to user information.
+- **Follower:** Manages follower relationships between users.
+- **Tweet:** Stores tweet details posted by users.
+- **Reply:** Handles replies to tweets.
+- **Like:** Tracks likes on tweets.
+
+Each API was carefully crafted to interact with the respective table, enabling a fully functional and scalable Twitter Clone.
+
+
+This version clearly states that you have completed the tasks mentioned in the original README.
 
 **User Table**
 
