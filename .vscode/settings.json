@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2ee6279c-b7c4-404e-b478-404d6f217b1b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/backendtwitter",
+    "appService.deploySubpath": "."
+}
